@@ -92,9 +92,9 @@ Introduce tu nombre:
 		fmt.Scanln(&i)
 		switch i {
 		case 0:
-			fmt.Println("one")
+			fmt.Println("Has ganado")
 		case 1:
-			fmt.Println("two")
+			fmt.Println("Has Perdido")
 
 		}
 
